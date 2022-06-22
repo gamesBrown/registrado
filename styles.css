@@ -1,0 +1,26 @@
+#glance{
+    height: 300px;
+    width: 300px;
+}
+
+#glance>img{
+    height: 300px;
+    width: 300px;
+
+}
+
+.bar{
+    border: 1px solid black;
+    border-style: dashed;
+    height: 20px;
+    width: 90px;
+    display: inline-block;
+}
+
+#glance.h3{
+display:inline;
+}
+#header{
+    display:block;
+    border-bottom: 2px solid black;
+}
